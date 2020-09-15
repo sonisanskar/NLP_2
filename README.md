@@ -1,6 +1,6 @@
 # NLP_2
 In order to test the models ,you must give path to the train data and the test data which must have the columns as 'title' and 'tag' with 
-values as 0(fake) and 1(real).
+values as 0(fake) and 1(real).You must have word 2 vec pretrained weights or can alternatively download from https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit
 After running the py file ,
 </br>python3 run_models.py</br>
 Steps:</br>
